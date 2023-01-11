@@ -1,9 +1,9 @@
 ![banner2](https://user-images.githubusercontent.com/78323472/117357595-617cb680-ae72-11eb-909a-c2369a509fcb.png)
 <h2 align="center">Hi 👋, I'm Meagan</h2>
 
-- 🔭 I’m currently working for <a href="https://nelnetinc.com/businesses/"> <img src="https://nelnet.com/contentimages/logo-nelnet.svg" alt="nelnet" height="40" padding-top="3px"/> </a>
+- 🔭 I’m currently working for [**Nelnet**](https://nelnetinc.com/businesses/)
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/meagan-ritchie-tech/"> <img height= "25" style="position:relative; top:8" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LinkedIn"> [<img height="25" style="position:relative; top:8" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email logo">](mailto:meaganritchie@gmail.com)
+- 📫 How to reach me: **LinkedIn**(https://www.linkedin.com/in/meagan-ritchie-tech/) or **Email**(mailto:meaganritchie@gmail.com)
 
 - 😄 Pronouns: she/her </br>
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [**Nelnet**](https://nelnetinc.com/businesses/)
 
-- 📫 How to reach me: **LinkedIn**(https://www.linkedin.com/in/meagan-ritchie-tech/) or **Email**(mailto:meaganritchie@gmail.com)
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/meagan-ritchie-tech/) or [**Email**](mailto:meaganritchie@gmail.com)
 
 - 😄 Pronouns: she/her </br>
 
